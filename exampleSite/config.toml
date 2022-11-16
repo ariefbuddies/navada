@@ -1,6 +1,6 @@
 
 
-baseURL = "https://navada-hugo.netlify.app/"
+baseURL = "https://navada.vercel.app/"
 languageCode = "en-us"
 title = "Navada"
 theme = "navada"
